@@ -1,0 +1,14 @@
+#performing earth matic operation
+a=20
+b=10
+
+let add=($a+$b)
+echo "a+b is ${add}"
+
+
+#multiply
+
+let mul=($a*$b)
+echo "multipication is ${mul}"
+
+
